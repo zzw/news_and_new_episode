@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the News and New episode feature.
+ */
+
+include_once('news_and_new_episode.features.inc');
